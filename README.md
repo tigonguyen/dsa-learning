@@ -1,6 +1,6 @@
 # dsa-learning
 
-## 1st month
+## Basic Data Strutures
 - [x] Stack
 - [ ] Queue
 - [ ] Heap
